@@ -1,4 +1,3 @@
-# population-info-app
-docs/
+# docs/
 
 ### Project Documentation
